@@ -3,6 +3,10 @@
 ## Overview
 This **COVID Dashboard** is a real-time analytics tool designed with an interactive **UI/UX interface**. The dashboard provides country-specific insights into COVID-19 cases, deaths, recoveries, and other related metrics. It dynamically updates in real-time and allows users to explore detailed, data-driven visualizations for each country. This README provides instructions for setup, features, and technical requirements.
 
+
+https://github.com/user-attachments/assets/e669b0ab-ca68-493d-a968-eb3e8951b782
+
+
 ---
 
 ## Features
